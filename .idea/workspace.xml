@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32c32aca-aeef-42c0-8321-9da10dc8b2d1" name="Default Changelist" comment="new change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/LC0387_first_unique_character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/LC0387_first_unique_character.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
